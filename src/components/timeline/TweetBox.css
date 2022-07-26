@@ -28,8 +28,8 @@
 
 .tweetBox__tweetButton{
   background-color: var(--twitter-color) !important;
-  color: white;
-  font-weight: 900;
+  color: white !important;
+  font-weight: 900 !important;
   width: 130px;
   height: 40p !important;
   border-radius: 30px !important;
