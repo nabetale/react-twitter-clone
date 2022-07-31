@@ -26,11 +26,11 @@ p {
 .post__headerText{
   display: flex;
   align-items: center;
+  margin-bottom: 5px;
 }
 
 .post__headerName{
   font-size: 15px;
-  margin-bottom: 5px;
 }
 
 .post__badge {

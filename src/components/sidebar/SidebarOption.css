@@ -5,6 +5,10 @@
   transition: color 0.15s ease-out;
   padding-left: 20px;
 }
+
+.sidebarOption--active{
+  color: var(--twitter-color);
+}
 .sidebarOption:hover{
   background-color: #e8f5fe;
   border-radius: 30px;
